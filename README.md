@@ -1,4 +1,4 @@
 # designpatterns
-designpatterns
-Commonly asked design patterns questions in interviews.
+
+Common design problems and solutions.
 The code is developed in Java
